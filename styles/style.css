@@ -388,7 +388,10 @@
   margin-left: 80px;
   margin-right: 0;
 }
-
+.footer__link-item_social {
+  display: flex;
+  align-items: center;
+}
 .footer__logo {
   width: 58px;
   height: 80px;
@@ -419,14 +422,12 @@
   text-decoration: none;
   font-size: 16px;
   line-height: 20px;
-  display: flex;
-  align-items: flex-end;
-  column-gap: 20px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__copyright {
