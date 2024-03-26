@@ -114,7 +114,6 @@
   gap: 40px 40px;
   list-style-type: none;
   padding-left: 0;
-  gap: 40px 40px;
 }
 .card {
   width: 360px;
@@ -405,7 +404,6 @@
   margin: 0;
   font-size: 16px;
   line-height: 20px;
-  list-style-type: none;
 
   flex-direction: column;
 }
